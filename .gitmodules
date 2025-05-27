@@ -1,0 +1,8 @@
+[submodule "be"]
+	path = be
+	url = https://github.com/koharudin/pmn-be.git
+	branch = main
+[submodule "fe"]
+	path = fe
+	url = https://github.com/koharudin/pmn-fe.git
+	branch = main
